@@ -1,1 +1,1 @@
-# splashpage
+# gitpage
